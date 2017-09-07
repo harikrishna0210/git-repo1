@@ -1,1 +1,1 @@
-welcome to git files
+welcome to new file for the project
